@@ -1,0 +1,13 @@
+# Quarto / R / Python cache and temp files
+.quarto/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*~
